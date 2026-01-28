@@ -1,0 +1,3 @@
+Watch | 5000
+Fridge | 80000
+Gaming Mouse | 2000
